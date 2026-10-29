@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-DJ+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 DJUCED Free Installer** — DJUCED is a free DJ software developed by Hercules for mixing music with virtual decks, effects, and a visual waveform display. Works without internet access, no account required. Full offline installation.
+**💻 DJUCED Free Installer** — DJUCED is a free DJ software application from Guillemot/Hercules designed for use with Hercules DJ controllers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About DJUCED
 
-DJUCED is a free DJ software developed by Hercules for mixing music with virtual decks, effects, and a visual waveform display. It integrates tightly with Hercules DJ hardware controllers and provides an accessible entry point for aspiring DJs.
+DJUCED is a free DJ software application from Guillemot/Hercules designed for use with Hercules DJ controllers. Features include a two-deck mixer, effects, BPM detection, and a music library browser. DJUCED provides an accessible entry point into DJ software for users with Hercules hardware, offering a clean interface focused on controller integration.
 
 ---
 
 ## ❌ Problem: DJUCED is hard to access
 
-- **Hercules Hardware Optimized** — Best experience with Hercules hardware; generic MIDI controllers less integrated
-- **Basic Pro Features** — Missing advanced features of Serato DJ or Traktor Pro for professional use
-- **Windows and macOS Only** — No Linux version available
-- **Limited Library Management** — Music library features less comprehensive than competing DJ software
+- **Hercules Hardware Focus** — Optimized for Hercules controllers; less suitable for other hardware
+- **Feature Scope** — Less comprehensive than Serato, rekordbox, or Traktor
+- **Casual Use** — Professional DJs will outgrow DJUCED capabilities quickly
+- **Music Library** — Limited library management compared to professional DJ software
 
 ---
 
@@ -121,7 +121,7 @@ DJUCED is a free DJ software developed by Hercules for mixing music with virtual
 
 ---
 
-**DJUCED Free Installer** — DJUCED is a free DJ software developed by Hercules for mixing music with virtual decks, effects, and a visual waveform display. Install without internet connection today!
+**DJUCED Free Installer** — DJUCED is a free DJ software application from Guillemot/Hercules designed for use with Hercules DJ controllers. Install without internet connection today!
 
 <div align="center">
 
